@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	background:url(img/handmadepaper.png);
+
+	}
+	
+	#wrapper{
+	width:950px;
+margin:0 auto;
+
+	
+
+	}
+	.line{height:50px;
+	 width:700px;
+	 border-bottom:3px solid #fff; 
+	 margin-bottom:0px; 
+	 padding-bottom:0px;}
+	 .hedimg{margin-left:142px; margin-top:-8px; }
+	#header{position:relative;
+		background-color:#232222;
+		height:200px;
+		}
+		a:link{
+			color:#333;
+			text-decoration:none;
+			
+			}
+		
+			
+			
+		a:visited{
+			color:#000;
+		
+			}
+		a:hover{
+			color:#760000;
+			}
+		
+		#navigation{
+			margin-top:80px;
+			backgroun-color:#069;
+			text-align:center;
+			color:#000;
+			
+			font-size:20px;
+		}
+		.navispace{padding-left:5px; padding-right:5px;}
+	
+.lilipic{margin-top:80px;
+	margin-left:250px;
+		}
+	
+		
+		#footnavi{background:#000;
+		padding-top:30px;
+		background-repeat:repeat;
+			color:#fff;
+		text-align:center;
+		margin-top:100px;
+		
+		}
+		 .angle{margin-top:-30px;float:left;}
+		 
+		h6{  border-top:solid 1px #fff; 
+		text-align:center; margin-top:7px;padding-bottom:20px;
+		}
+		
